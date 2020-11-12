@@ -3,9 +3,7 @@
 实验四
 
 计G202--2020322101
-
 # 阅读程序
-
 ## 实验目的
 ```
 1.掌握Java中抽象类和抽象方法的定义； 
@@ -92,9 +90,9 @@ public interface TeacherInterface {
 			}
 ```
 ## 实验结果
-```
+
 ![image](https://github.com/tan-weijia/Java3/blob/main/yunxingjieguo.png)
-```
+
 ## 实验感想
 ```
 本次实验掌握了抽象类和抽象方法的定义，接口的定义形式以及接口的实现方法，同时也尝试做了异常处理。实验过程中遇到很多难题，
